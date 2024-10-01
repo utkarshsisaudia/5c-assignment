@@ -7,18 +7,7 @@ This project implements **Nested U-Net** and **Attention U-Net** architectures f
 ## Table of Contents
 - [Objective](#objective)
 - [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Preprocessing](#preprocessing)
-- [Model Architectures](#model-architectures)
-  - Nested U-Net
-  - Attention U-Net
-- [Model Training & Evaluation](#model-training--evaluation)
-- [Web Application](#web-application)
-- [Installation & Setup](#installation--setup)
-- [Results](#results)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-
+- 
 ---
 
 ## Objective
@@ -37,7 +26,5 @@ You will be working with a dataset of brain MRI images and their corresponding m
 
 The dataset has been split into 80% training and 20% testing sets.
 
----
 
-## Project Structure
 
