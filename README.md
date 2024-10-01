@@ -4,7 +4,7 @@ This project implements **Nested U-Net** and **Attention U-Net** architectures f
 
 ---
 
-## Table of Contents
+##  Contents
 - [Objective](#objective)
 - [Dataset](#dataset)
 - 
